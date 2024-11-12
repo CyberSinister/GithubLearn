@@ -1,7 +1,9 @@
-dsfsdafsdfasff
-def a = ('b', 'g', 'a', 'd', 'f', 'c', 'h', 'e')
+fdsfasdsd
+
+a = ('b', 'g', 'a', 'd', 'f', 'c', 'h', 'e')
 x = sorted(a)
-print(x)<template>
+print(x)assertfas
+<template>
 <div class='filter-box'>
 <div class='left-box'>
 <el-input placeholder='请输入授权名称' v-model='filter.name' class='common-input' @input='query' clearable suffix-icon='el-icon-search' />
@@ -40,14 +42,4 @@ const filter = reactive({
   justify-content space-between
   margin-bottom 16px
 </style>
-    fs
-    fa
-    x = {'apple', 'banana', 'cherry'}
-    y = {'google', 'microsoft', 'apple'}
-    z = x.difference(y)
-    print(z)asdf(self):
-    """
-    Purpose: 
-    """
-    
-# end def
+    a
